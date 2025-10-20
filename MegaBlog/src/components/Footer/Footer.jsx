@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="-m-6 flex flex-wrap">
           <div className="w-full p-6 md:w-1/2 lg:w-5/12">
             <div className="flex h-full flex-col justify-between">
-              <div className="mb-4 ml-40 mt-5 inline-flex items-center">
+              <div className="mb-4 ml-30 mt-5 inline-flex items-center">
                 <Logo width="100px" />
               </div>
               <div>
